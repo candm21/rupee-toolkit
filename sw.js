@@ -1,6 +1,6 @@
 // Offline cache for Indian Rupee Toolkit.
 // When you change index.html, bump VERSION so phones fetch the new copy.
-const VERSION = 'rupee-toolkit-v1';
+const VERSION = 'rupee-toolkit-v5';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 
 self.addEventListener('install', e => {
